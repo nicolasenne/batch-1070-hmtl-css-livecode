@@ -1,0 +1,14 @@
+.avatar {
+  display: flex;
+  align-items: center;
+}
+
+.avatar img {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.avatar a {
+  color: #4B94BD;
+  margin-left: 10px;
+}
